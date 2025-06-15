@@ -6,6 +6,14 @@ JellyBot is a lightweight real-world robot that quietly helps you stay organized
 
 ---
 
+## 🎥 Demo
+
+<video src="jellybot_demo.mp4" controls width="600"></video>
+
+> _Success rate: **~70%** under consistent lighting and camera setup._
+---
+
+
 ## 🤖 Project Overview
 
 - **Hardware**: 5-DoF LeRobot arm mounted on a hallway table  
@@ -58,6 +66,7 @@ JellyBot is just the start. The same setup can support:
 
 ## ✨ Credits
 
+Developed with ❤️ by [@islexu](https://huggingface.co/islexu)  
 Built using [SmolVLA](https://github.com/huggingface/lerobot) and [LeRobot](https://github.com/huggingface/lerobot)
 
 ---
