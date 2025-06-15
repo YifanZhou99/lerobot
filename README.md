@@ -8,7 +8,7 @@ JellyBot is a lightweight real-world robot that quietly helps you stay organized
 
 ## 🎥 Demo
 
-▶️ [Watch JellyBot in action](https://github.com/YifanZhou99/lerobot_JellyBots/blob/main/jellybot_demo.mp4)
+▶️ [Watch JellyBot in action](https://drive.google.com/file/d/1hCUMtA6IJbLG_7eqQ7r3VyE8lI3HaVyH/view?usp=sharing)
 
 > _Success rate: **~70%** under consistent lighting and camera setup._
 
